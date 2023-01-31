@@ -1,3 +1,3 @@
 # Hamoye_StageA
 
-Stage A project 
+This work comprises of the answers to the questions asked during Stage A in Hamoye Internship. 
